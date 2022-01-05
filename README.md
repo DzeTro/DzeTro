@@ -1,6 +1,3 @@
-
-
-
 ### Hi 👋, I'm Dzevad
 
 ## I'm a Husband, Father and Future Software Developer
