@@ -1,5 +1,5 @@
 ### <h1 align="center"> 👋, I'm Dzevad </h1>
-## <h2 align="center"> I'm a Husband, Father and Future Software Developer</h2>
+## <h2 align="center"> I'm a Husband, Father and Future Software Developer </h2>
 - 🔭 I’m currently working on Retraining as an IT Specialist in Application Development 
 - 🌱 I’m currently learning everythink 🤣
 - 👯 I’m looking to collaborate on other content creators
